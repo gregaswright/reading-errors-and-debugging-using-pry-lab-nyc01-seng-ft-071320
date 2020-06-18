@@ -6,5 +6,5 @@ end
 
 
 def play_game(player2, player1)
-  "#{player1} is better than #{player2}"
+  "#{player2} is better than #{player1}"
 end
